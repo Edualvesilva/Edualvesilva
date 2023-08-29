@@ -8,7 +8,7 @@ I am a self-motivated individual who is passionate about web development. Althou
 
 
 ### Skills
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edualvesilva)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 **Front-end**: HTML, CSS, JavaScript (JS), React, Vue.js
