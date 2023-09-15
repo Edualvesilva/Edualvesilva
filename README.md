@@ -9,9 +9,9 @@ I am a self-motivated individual who is passionate about web development. Althou
 
 ### Skills
 ---
-**Front-end**: HTML, CSS, JavaScript (JS), React, Vue.js
+**Front-end**: HTML, CSS, JavaScript (JS), React
 
-**Back-end**: PHP,SQL, Node.js, Express.js
+**Back-end**: PHP, SQL, Node.js, Express.js
 
 **Database**: MySQL
 
