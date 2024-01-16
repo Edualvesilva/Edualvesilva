@@ -15,5 +15,5 @@ I am a self-motivated individual who is passionate about web development. Althou
 
 **Database**: MySQL
 
-**Mobile Development**: React Native
+**Mobile Development**: React Native, Next.js
 
