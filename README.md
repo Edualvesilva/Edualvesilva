@@ -17,3 +17,4 @@ I am a self-motivated individual who is passionate about web development. Althou
 
 **Mobile Development**: React Native
 
+And I'm also learning Java!!
